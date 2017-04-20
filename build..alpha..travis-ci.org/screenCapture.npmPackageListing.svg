@@ -1,0 +1,310 @@
+<svg height="4910" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="4910" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 17:06:18 +0000  1746480 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 17:06:18 +0000     1083 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 17:06:18 +0000     3783 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 17:06:18 +0000    18044 bytes  lib/model/AjvValidator.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 17:06:18 +0000   133034 bytes  lib/model/Model.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 17:06:18 +0000     2474 bytes  lib/model/ValidationError.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 17:06:18 +0000     2608 bytes  lib/model/Validator.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 17:06:18 +0000     3931 bytes  lib/model/inheritModel.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 17:06:18 +0000    15716 bytes  lib/model/modelFactory.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 17:06:18 +0000     4701 bytes  lib/model/modelVisitor.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 17:06:18 +0000     6342 bytes  lib/objection.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 17:06:18 +0000    20777 bytes  lib/queryBuilder/JoinBuilder.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 17:06:18 +0000   123808 bytes  lib/queryBuilder/QueryBuilder.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 17:06:18 +0000    89001 bytes  lib/queryBuilder/QueryBuilderBase.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 17:06:18 +0000     3214 bytes  lib/queryBuilder/QueryBuilderContext.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 17:06:18 +0000     3600 bytes  lib/queryBuilder/QueryBuilderContextBase.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 17:06:18 +0000    31884 bytes  lib/queryBuilder/QueryBuilderOperationSupport.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 17:06:18 +0000     8984 bytes  lib/queryBuilder/ReferenceBuilder.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 17:06:18 +0000    34294 bytes  lib/queryBuilder/RelationExpression.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 17:06:18 +0000     8014 bytes  lib/queryBuilder/decorators/queryBuilderOperatio\</tspan>
+<tspan x="10" y="346">n.js</tspan>
+<tspan x="10" y="362"> 20.  2017-04-20 17:06:18 +0000     3059 bytes  lib/queryBuilder/graphInserter/BelongsToOneDepen\</tspan>
+<tspan x="10" y="378">dency.js</tspan>
+<tspan x="10" y="394"> 21.  2017-04-20 17:06:18 +0000     1476 bytes  lib/queryBuilder/graphInserter/Dependency.js</tspan>
+<tspan x="10" y="410"> 22.  2017-04-20 17:06:18 +0000    40240 bytes  lib/queryBuilder/graphInserter/DependencyGraph.j\</tspan>
+<tspan x="10" y="426">s</tspan>
+<tspan x="10" y="442"> 23.  2017-04-20 17:06:18 +0000     2863 bytes  lib/queryBuilder/graphInserter/DependencyNode.js</tspan>
+<tspan x="10" y="458"> 24.  2017-04-20 17:06:18 +0000    30477 bytes  lib/queryBuilder/graphInserter/GraphInserter.js</tspan>
+<tspan x="10" y="474"> 25.  2017-04-20 17:06:18 +0000     3000 bytes  lib/queryBuilder/graphInserter/HasManyDependency\</tspan>
+<tspan x="10" y="490">.js</tspan>
+<tspan x="10" y="506"> 26.  2017-04-20 17:06:18 +0000     4908 bytes  lib/queryBuilder/graphInserter/InterpolateValueD\</tspan>
+<tspan x="10" y="522">ependency.js</tspan>
+<tspan x="10" y="538"> 27.  2017-04-20 17:06:18 +0000     1892 bytes  lib/queryBuilder/graphInserter/ManyToManyConnect\</tspan>
+<tspan x="10" y="554">ion.js</tspan>
+<tspan x="10" y="570"> 28.  2017-04-20 17:06:18 +0000     3751 bytes  lib/queryBuilder/graphInserter/ReplaceValueDepen\</tspan>
+<tspan x="10" y="586">dency.js</tspan>
+<tspan x="10" y="602"> 29.  2017-04-20 17:06:18 +0000     2032 bytes  lib/queryBuilder/graphInserter/TableInsertion.js</tspan>
+<tspan x="10" y="618"> 30.  2017-04-20 17:06:18 +0000     6430 bytes  lib/queryBuilder/graphInserter/inserter.js</tspan>
+<tspan x="10" y="634"> 31.  2017-04-20 17:06:18 +0000    12097 bytes  lib/queryBuilder/operations/DelegateOperation.js</tspan>
+<tspan x="10" y="650"> 32.  2017-04-20 17:06:18 +0000     2454 bytes  lib/queryBuilder/operations/DeleteOperation.js</tspan>
+<tspan x="10" y="666"> 33.  2017-04-20 17:06:18 +0000    13277 bytes  lib/queryBuilder/operations/FindOperation.js</tspan>
+<tspan x="10" y="682"> 34.  2017-04-20 17:06:18 +0000     6716 bytes  lib/queryBuilder/operations/InsertAndFetchOperat\</tspan>
+<tspan x="10" y="698">ion.js</tspan>
+<tspan x="10" y="714"> 35.  2017-04-20 17:06:18 +0000     5956 bytes  lib/queryBuilder/operations/InsertGraphAndFetchO\</tspan>
+<tspan x="10" y="730">peration.js</tspan>
+<tspan x="10" y="746"> 36.  2017-04-20 17:06:18 +0000    10994 bytes  lib/queryBuilder/operations/InsertGraphOperation\</tspan>
+<tspan x="10" y="762">.js</tspan>
+<tspan x="10" y="778"> 37.  2017-04-20 17:06:18 +0000    16470 bytes  lib/queryBuilder/operations/InsertOperation.js</tspan>
+<tspan x="10" y="794"> 38.  2017-04-20 17:06:18 +0000     4506 bytes  lib/queryBuilder/operations/InstanceDeleteOperat\</tspan>
+<tspan x="10" y="810">ion.js</tspan>
+<tspan x="10" y="826"> 39.  2017-04-20 17:06:18 +0000     2751 bytes  lib/queryBuilder/operations/InstanceFindOperatio\</tspan>
+<tspan x="10" y="842">n.js</tspan>
+<tspan x="10" y="858"> 40.  2017-04-20 17:06:18 +0000     2670 bytes  lib/queryBuilder/operations/InstanceInsertOperat\</tspan>
+<tspan x="10" y="874">ion.js</tspan>
+<tspan x="10" y="890"> 41.  2017-04-20 17:06:18 +0000     5044 bytes  lib/queryBuilder/operations/InstanceUpdateOperat\</tspan>
+<tspan x="10" y="906">ion.js</tspan>
+<tspan x="10" y="922"> 42.  2017-04-20 17:06:18 +0000     7862 bytes  lib/queryBuilder/operations/JoinRelationOperatio\</tspan>
+<tspan x="10" y="938">n.js</tspan>
+<tspan x="10" y="954"> 43.  2017-04-20 17:06:18 +0000     2698 bytes  lib/queryBuilder/operations/KnexOperation.js</tspan>
+<tspan x="10" y="970"> 44.  2017-04-20 17:06:18 +0000     2498 bytes  lib/queryBuilder/operations/OnBuildOperation.js</tspan>
+<tspan x="10" y="986"> 45.  2017-04-20 17:06:18 +0000    11648 bytes  lib/queryBuilder/operations/QueryBuilderOperatio\</tspan>
+<tspan x="10" y="1002">n.js</tspan>
+<tspan x="10" y="1018"> 46.  2017-04-20 17:06:18 +0000     4755 bytes  lib/queryBuilder/operations/RangeOperation.js</tspan>
+<tspan x="10" y="1034"> 47.  2017-04-20 17:06:18 +0000     3993 bytes  lib/queryBuilder/operations/ReturningOperation.j\</tspan>
+<tspan x="10" y="1050">s</tspan>
+<tspan x="10" y="1066"> 48.  2017-04-20 17:06:18 +0000     2562 bytes  lib/queryBuilder/operations/RunAfterOperation.js</tspan>
+<tspan x="10" y="1082"> 49.  2017-04-20 17:06:18 +0000     2580 bytes  lib/queryBuilder/operations/RunBeforeOperation.j\</tspan>
+<tspan x="10" y="1098">s</tspan>
+<tspan x="10" y="1114"> 50.  2017-04-20 17:06:18 +0000     8626 bytes  lib/queryBuilder/operations/SelectOperation.js</tspan>
+<tspan x="10" y="1130"> 51.  2017-04-20 17:06:18 +0000     7028 bytes  lib/queryBuilder/operations/UpdateAndFetchOperat\</tspan>
+<tspan x="10" y="1146">ion.js</tspan>
+<tspan x="10" y="1162"> 52.  2017-04-20 17:06:18 +0000    12927 bytes  lib/queryBuilder/operations/UpdateOperation.js</tspan>
+<tspan x="10" y="1178"> 53.  2017-04-20 17:06:18 +0000     5981 bytes  lib/queryBuilder/operations/WhereCompositeOperat\</tspan>
+<tspan x="10" y="1194">ion.js</tspan>
+<tspan x="10" y="1210"> 54.  2017-04-20 17:06:18 +0000     5330 bytes  lib/queryBuilder/operations/WhereRefOperation.js</tspan>
+<tspan x="10" y="1226"> 55.  2017-04-20 17:06:18 +0000    14446 bytes  lib/queryBuilder/operations/WrappingQueryBuilder\</tspan>
+<tspan x="10" y="1242">Operation.js</tspan>
+<tspan x="10" y="1258"> 56.  2017-04-20 17:06:18 +0000     4915 bytes  lib/queryBuilder/operations/eager/EagerOperation\</tspan>
+<tspan x="10" y="1274">.js</tspan>
+<tspan x="10" y="1290"> 57.  2017-04-20 17:06:18 +0000     6049 bytes  lib/queryBuilder/operations/eager/JoinEagerOpera\</tspan>
+<tspan x="10" y="1306">tion.js</tspan>
+<tspan x="10" y="1322"> 58.  2017-04-20 17:06:18 +0000    70018 bytes  lib/queryBuilder/operations/eager/RelationJoinBu\</tspan>
+<tspan x="10" y="1338">ilder.js</tspan>
+<tspan x="10" y="1354"> 59.  2017-04-20 17:06:18 +0000    19708 bytes  lib/queryBuilder/operations/eager/WhereInEagerOp\</tspan>
+<tspan x="10" y="1370">eration.js</tspan>
+<tspan x="10" y="1386"> 60.  2017-04-20 17:06:18 +0000     4414 bytes  lib/queryBuilder/operations/jsonApi/WhereJsonFie\</tspan>
+<tspan x="10" y="1402">ldPostgresOperation.js</tspan>
+<tspan x="10" y="1418"> 61.  2017-04-20 17:06:18 +0000     4450 bytes  lib/queryBuilder/operations/jsonApi/WhereJsonHas\</tspan>
+<tspan x="10" y="1434">PostgresOperation.js</tspan>
+<tspan x="10" y="1450"> 62.  2017-04-20 17:06:18 +0000     5022 bytes  lib/queryBuilder/operations/jsonApi/WhereJsonNot\</tspan>
+<tspan x="10" y="1466">ObjectPostgresOperation.js</tspan>
+<tspan x="10" y="1482"> 63.  2017-04-20 17:06:18 +0000     4764 bytes  lib/queryBuilder/operations/jsonApi/WhereJsonPos\</tspan>
+<tspan x="10" y="1498">tgresOperation.js</tspan>
+<tspan x="10" y="1514"> 64.  2017-04-20 17:06:18 +0000    19259 bytes  lib/queryBuilder/operations/jsonApi/postgresJson\</tspan>
+<tspan x="10" y="1530">Api.js</tspan>
+<tspan x="10" y="1546"> 65.  2017-04-20 17:06:18 +0000     9113 bytes  lib/queryBuilder/operations/whereInComposite/Whe\</tspan>
+<tspan x="10" y="1562">reInCompositeOperation.js</tspan>
+<tspan x="10" y="1578"> 66.  2017-04-20 17:06:18 +0000     8570 bytes  lib/queryBuilder/operations/whereInComposite/Whe\</tspan>
+<tspan x="10" y="1594">reInCompositeSqliteOperation.js</tspan>
+<tspan x="10" y="1610"> 67.  2017-04-20 17:06:18 +0000    75144 bytes  lib/queryBuilder/parsers/jsonFieldExpressionPars\</tspan>
+<tspan x="10" y="1626">er.js</tspan>
+<tspan x="10" y="1642"> 68.  2017-04-20 17:06:18 +0000    75989 bytes  lib/queryBuilder/parsers/relationExpressionParse\</tspan>
+<tspan x="10" y="1658">r.js</tspan>
+<tspan x="10" y="1674"> 69.  2017-04-20 17:06:18 +0000    57162 bytes  lib/relations/Relation.js</tspan>
+<tspan x="10" y="1690"> 70.  2017-04-20 17:06:18 +0000     3190 bytes  lib/relations/RelationDeleteOperation.js</tspan>
+<tspan x="10" y="1706"> 71.  2017-04-20 17:06:18 +0000    15626 bytes  lib/relations/RelationFindOperation.js</tspan>
+<tspan x="10" y="1722"> 72.  2017-04-20 17:06:18 +0000     3190 bytes  lib/relations/RelationUpdateOperation.js</tspan>
+<tspan x="10" y="1738"> 73.  2017-04-20 17:06:18 +0000     6931 bytes  lib/relations/belongsToOne/BelongsToOneInsertOpe\</tspan>
+<tspan x="10" y="1754">ration.js</tspan>
+<tspan x="10" y="1770"> 74.  2017-04-20 17:06:18 +0000     6683 bytes  lib/relations/belongsToOne/BelongsToOneRelateOpe\</tspan>
+<tspan x="10" y="1786">ration.js</tspan>
+<tspan x="10" y="1802"> 75.  2017-04-20 17:06:18 +0000     4423 bytes  lib/relations/belongsToOne/BelongsToOneRelation.\</tspan>
+<tspan x="10" y="1818">js</tspan>
+<tspan x="10" y="1834"> 76.  2017-04-20 17:06:18 +0000     3383 bytes  lib/relations/belongsToOne/BelongsToOneUnrelateO\</tspan>
+<tspan x="10" y="1850">peration.js</tspan>
+<tspan x="10" y="1866"> 77.  2017-04-20 17:06:18 +0000     6478 bytes  lib/relations/hasMany/HasManyInsertOperation.js</tspan>
+<tspan x="10" y="1882"> 78.  2017-04-20 17:06:18 +0000     6421 bytes  lib/relations/hasMany/HasManyRelateOperation.js</tspan>
+<tspan x="10" y="1898"> 79.  2017-04-20 17:06:18 +0000     4002 bytes  lib/relations/hasMany/HasManyRelation.js</tspan>
+<tspan x="10" y="1914"> 80.  2017-04-20 17:06:18 +0000     4939 bytes  lib/relations/hasMany/HasManyUnrelateOperation.j\</tspan>
+<tspan x="10" y="1930">s</tspan>
+<tspan x="10" y="1946"> 81.  2017-04-20 17:06:18 +0000     1874 bytes  lib/relations/hasOne/HasOneRelation.js</tspan>
+<tspan x="10" y="1962"> 82.  2017-04-20 17:06:18 +0000     2006 bytes  lib/relations/hasOneThrough/HasOneThroughRelatio\</tspan>
+<tspan x="10" y="1978">n.js</tspan>
+<tspan x="10" y="1994"> 83.  2017-04-20 17:06:18 +0000     3094 bytes  lib/relations/manyToMany/ManyToManyDeleteOperati\</tspan>
+<tspan x="10" y="2010">on.js</tspan>
+<tspan x="10" y="2026"> 84.  2017-04-20 17:06:18 +0000     3194 bytes  lib/relations/manyToMany/ManyToManyDeleteSqliteO\</tspan>
+<tspan x="10" y="2042">peration.js</tspan>
+<tspan x="10" y="2058"> 85.  2017-04-20 17:06:18 +0000    14291 bytes  lib/relations/manyToMany/ManyToManyFindOperation\</tspan>
+<tspan x="10" y="2074">.js</tspan>
+<tspan x="10" y="2090"> 86.  2017-04-20 17:06:18 +0000     6515 bytes  lib/relations/manyToMany/ManyToManyInsertOperati\</tspan>
+<tspan x="10" y="2106">on.js</tspan>
+<tspan x="10" y="2122"> 87.  2017-04-20 17:06:18 +0000     5145 bytes  lib/relations/manyToMany/ManyToManyRelateOperati\</tspan>
+<tspan x="10" y="2138">on.js</tspan>
+<tspan x="10" y="2154"> 88.  2017-04-20 17:06:18 +0000    48611 bytes  lib/relations/manyToMany/ManyToManyRelation.js</tspan>
+<tspan x="10" y="2170"> 89.  2017-04-20 17:06:18 +0000     5323 bytes  lib/relations/manyToMany/ManyToManyUnrelateOpera\</tspan>
+<tspan x="10" y="2186">tion.js</tspan>
+<tspan x="10" y="2202"> 90.  2017-04-20 17:06:18 +0000     7838 bytes  lib/relations/manyToMany/ManyToManyUnrelateSqlit\</tspan>
+<tspan x="10" y="2218">eOperation.js</tspan>
+<tspan x="10" y="2234"> 91.  2017-04-20 17:06:18 +0000     3094 bytes  lib/relations/manyToMany/ManyToManyUpdateOperati\</tspan>
+<tspan x="10" y="2250">on.js</tspan>
+<tspan x="10" y="2266"> 92.  2017-04-20 17:06:18 +0000     3194 bytes  lib/relations/manyToMany/ManyToManyUpdateSqliteO\</tspan>
+<tspan x="10" y="2282">peration.js</tspan>
+<tspan x="10" y="2298"> 93.  2017-04-20 17:06:18 +0000    11226 bytes  lib/transaction.js</tspan>
+<tspan x="10" y="2314"> 94.  2017-04-20 17:06:18 +0000     5381 bytes  lib/utils/classUtils.js</tspan>
+<tspan x="10" y="2330"> 95.  2017-04-20 17:06:18 +0000     3055 bytes  lib/utils/decorators/deprecated.js</tspan>
+<tspan x="10" y="2346"> 96.  2017-04-20 17:06:18 +0000     6777 bytes  lib/utils/decorators/hiddenData.js</tspan>
+<tspan x="10" y="2362"> 97.  2017-04-20 17:06:18 +0000     5279 bytes  lib/utils/decorators/memoize.js</tspan>
+<tspan x="10" y="2378"> 98.  2017-04-20 17:06:18 +0000     5409 bytes  lib/utils/hiddenData.js</tspan>
+<tspan x="10" y="2394"> 99.  2017-04-20 17:06:18 +0000     4562 bytes  lib/utils/knexUtils.js</tspan>
+<tspan x="10" y="2410">100.  2017-04-20 17:06:18 +0000    14778 bytes  lib/utils/normalizeIds.js</tspan>
+<tspan x="10" y="2426">101.  2017-04-20 17:06:18 +0000     4690 bytes  lib/utils/promiseUtils.js</tspan>
+<tspan x="10" y="2442">102.  2017-04-20 17:06:18 +0000     3615 bytes  package.json</tspan>
+<tspan x="10" y="2458">103.  2017-04-20 17:06:18 +0000     3835 bytes  src/model/AjvValidator.js</tspan>
+<tspan x="10" y="2474">104.  2017-04-20 17:06:18 +0000    34088 bytes  src/model/Model.js</tspan>
+<tspan x="10" y="2490">105.  2017-04-20 17:06:18 +0000      526 bytes  src/model/ValidationError.js</tspan>
+<tspan x="10" y="2506">106.  2017-04-20 17:06:18 +0000      299 bytes  src/model/Validator.js</tspan>
+<tspan x="10" y="2522">107.  2017-04-20 17:06:18 +0000      933 bytes  src/model/inheritModel.js</tspan>
+<tspan x="10" y="2538">108.  2017-04-20 17:06:18 +0000     3674 bytes  src/model/modelFactory.js</tspan>
+<tspan x="10" y="2554">109.  2017-04-20 17:06:18 +0000     1060 bytes  src/model/modelVisitor.js</tspan>
+<tspan x="10" y="2570">110.  2017-04-20 17:06:18 +0000     1309 bytes  src/objection.js</tspan>
+<tspan x="10" y="2586">111.  2017-04-20 17:06:18 +0000     3675 bytes  src/queryBuilder/JoinBuilder.js</tspan>
+<tspan x="10" y="2602">112.  2017-04-20 17:06:18 +0000    32305 bytes  src/queryBuilder/QueryBuilder.js</tspan>
+<tspan x="10" y="2618">113.  2017-04-20 17:06:18 +0000    19017 bytes  src/queryBuilder/QueryBuilderBase.js</tspan>
+<tspan x="10" y="2634">114.  2017-04-20 17:06:18 +0000      463 bytes  src/queryBuilder/QueryBuilderContext.js</tspan>
+<tspan x="10" y="2650">115.  2017-04-20 17:06:18 +0000      662 bytes  src/queryBuilder/QueryBuilderContextBase.js</tspan>
+<tspan x="10" y="2666">116.  2017-04-20 17:06:18 +0000     8410 bytes  src/queryBuilder/QueryBuilderOperationSupport.js</tspan>
+<tspan x="10" y="2682">117.  2017-04-20 17:06:18 +0000     2049 bytes  src/queryBuilder/ReferenceBuilder.js</tspan>
+<tspan x="10" y="2698">118.  2017-04-20 17:06:18 +0000     8299 bytes  src/queryBuilder/RelationExpression.js</tspan>
+<tspan x="10" y="2714">119.  2017-04-20 17:06:18 +0000     1949 bytes  src/queryBuilder/decorators/queryBuilderOperatio\</tspan>
+<tspan x="10" y="2730">n.js</tspan>
+<tspan x="10" y="2746">120.  2017-04-20 17:06:18 +0000      415 bytes  src/queryBuilder/graphInserter/BelongsToOneDepen\</tspan>
+<tspan x="10" y="2762">dency.js</tspan>
+<tspan x="10" y="2778">121.  2017-04-20 17:06:18 +0000      194 bytes  src/queryBuilder/graphInserter/Dependency.js</tspan>
+<tspan x="10" y="2794">122.  2017-04-20 17:06:18 +0000     9943 bytes  src/queryBuilder/graphInserter/DependencyGraph.j\</tspan>
+<tspan x="10" y="2810">s</tspan>
+<tspan x="10" y="2826">123.  2017-04-20 17:06:18 +0000      627 bytes  src/queryBuilder/graphInserter/DependencyNode.js</tspan>
+<tspan x="10" y="2842">124.  2017-04-20 17:06:18 +0000     7571 bytes  src/queryBuilder/graphInserter/GraphInserter.js</tspan>
+<tspan x="10" y="2858">125.  2017-04-20 17:06:18 +0000      410 bytes  src/queryBuilder/graphInserter/HasManyDependency\</tspan>
+<tspan x="10" y="2874">.js</tspan>
+<tspan x="10" y="2890">126.  2017-04-20 17:06:18 +0000      866 bytes  src/queryBuilder/graphInserter/InterpolateValueD\</tspan>
+<tspan x="10" y="2906">ependency.js</tspan>
+<tspan x="10" y="2922">127.  2017-04-20 17:06:18 +0000      338 bytes  src/queryBuilder/graphInserter/ManyToManyConnect\</tspan>
+<tspan x="10" y="2938">ion.js</tspan>
+<tspan x="10" y="2954">128.  2017-04-20 17:06:18 +0000      599 bytes  src/queryBuilder/graphInserter/ReplaceValueDepen\</tspan>
+<tspan x="10" y="2970">dency.js</tspan>
+<tspan x="10" y="2986">129.  2017-04-20 17:06:18 +0000      417 bytes  src/queryBuilder/graphInserter/TableInsertion.js</tspan>
+<tspan x="10" y="3002">130.  2017-04-20 17:06:18 +0000     1610 bytes  src/queryBuilder/graphInserter/inserter.js</tspan>
+<tspan x="10" y="3018">131.  2017-04-20 17:06:18 +0000     2489 bytes  src/queryBuilder/operations/DelegateOperation.js</tspan>
+<tspan x="10" y="3034">132.  2017-04-20 17:06:18 +0000      286 bytes  src/queryBuilder/operations/DeleteOperation.js</tspan>
+<tspan x="10" y="3050">133.  2017-04-20 17:06:18 +0000     2850 bytes  src/queryBuilder/operations/FindOperation.js</tspan>
+<tspan x="10" y="3066">134.  2017-04-20 17:06:18 +0000     1367 bytes  src/queryBuilder/operations/InsertAndFetchOperat\</tspan>
+<tspan x="10" y="3082">ion.js</tspan>
+<tspan x="10" y="3098">135.  2017-04-20 17:06:18 +0000     1043 bytes  src/queryBuilder/operations/InsertGraphAndFetchO\</tspan>
+<tspan x="10" y="3114">peration.js</tspan>
+<tspan x="10" y="3130">136.  2017-04-20 17:06:18 +0000     2616 bytes  src/queryBuilder/operations/InsertGraphOperation\</tspan>
+<tspan x="10" y="3146">.js</tspan>
+<tspan x="10" y="3162">137.  2017-04-20 17:06:18 +0000     4261 bytes  src/queryBuilder/operations/InsertOperation.js</tspan>
+<tspan x="10" y="3178">138.  2017-04-20 17:06:18 +0000      741 bytes  src/queryBuilder/operations/InstanceDeleteOperat\</tspan>
+<tspan x="10" y="3194">ion.js</tspan>
+<tspan x="10" y="3210">139.  2017-04-20 17:06:18 +0000      330 bytes  src/queryBuilder/operations/InstanceFindOperatio\</tspan>
+<tspan x="10" y="3226">n.js</tspan>
+<tspan x="10" y="3242">140.  2017-04-20 17:06:18 +0000      317 bytes  src/queryBuilder/operations/InstanceInsertOperat\</tspan>
+<tspan x="10" y="3258">ion.js</tspan>
+<tspan x="10" y="3274">141.  2017-04-20 17:06:18 +0000      840 bytes  src/queryBuilder/operations/InstanceUpdateOperat\</tspan>
+<tspan x="10" y="3290">ion.js</tspan>
+<tspan x="10" y="3306">142.  2017-04-20 17:06:18 +0000     1600 bytes  src/queryBuilder/operations/JoinRelationOperatio\</tspan>
+<tspan x="10" y="3322">n.js</tspan>
+<tspan x="10" y="3338">143.  2017-04-20 17:06:18 +0000      373 bytes  src/queryBuilder/operations/KnexOperation.js</tspan>
+<tspan x="10" y="3354">144.  2017-04-20 17:06:18 +0000      282 bytes  src/queryBuilder/operations/OnBuildOperation.js</tspan>
+<tspan x="10" y="3370">145.  2017-04-20 17:06:18 +0000     2925 bytes  src/queryBuilder/operations/QueryBuilderOperatio\</tspan>
+<tspan x="10" y="3386">n.js</tspan>
+<tspan x="10" y="3402">146.  2017-04-20 17:06:18 +0000      893 bytes  src/queryBuilder/operations/RangeOperation.js</tspan>
+<tspan x="10" y="3418">147.  2017-04-20 17:06:18 +0000      788 bytes  src/queryBuilder/operations/ReturningOperation.j\</tspan>
+<tspan x="10" y="3434">s</tspan>
+<tspan x="10" y="3450">148.  2017-04-20 17:06:18 +0000      293 bytes  src/queryBuilder/operations/RunAfterOperation.js</tspan>
+<tspan x="10" y="3466">149.  2017-04-20 17:06:18 +0000      295 bytes  src/queryBuilder/operations/RunBeforeOperation.j\</tspan>
+<tspan x="10" y="3482">s</tspan>
+<tspan x="10" y="3498">150.  2017-04-20 17:06:18 +0000     1807 bytes  src/queryBuilder/operations/SelectOperation.js</tspan>
+<tspan x="10" y="3514">151.  2017-04-20 17:06:18 +0000     1331 bytes  src/queryBuilder/operations/UpdateAndFetchOperat\</tspan>
+<tspan x="10" y="3530">ion.js</tspan>
+<tspan x="10" y="3546">152.  2017-04-20 17:06:18 +0000     3162 bytes  src/queryBuilder/operations/UpdateOperation.js</tspan>
+<tspan x="10" y="3562">153.  2017-04-20 17:06:18 +0000     1125 bytes  src/queryBuilder/operations/WhereCompositeOperat\</tspan>
+<tspan x="10" y="3578">ion.js</tspan>
+<tspan x="10" y="3594">154.  2017-04-20 17:06:18 +0000      968 bytes  src/queryBuilder/operations/WhereRefOperation.js</tspan>
+<tspan x="10" y="3610">155.  2017-04-20 17:06:18 +0000     3450 bytes  src/queryBuilder/operations/WrappingQueryBuilder\</tspan>
+<tspan x="10" y="3626">Operation.js</tspan>
+<tspan x="10" y="3642">156.  2017-04-20 17:06:18 +0000      852 bytes  src/queryBuilder/operations/eager/EagerOperation\</tspan>
+<tspan x="10" y="3658">.js</tspan>
+<tspan x="10" y="3674">157.  2017-04-20 17:06:18 +0000     1043 bytes  src/queryBuilder/operations/eager/JoinEagerOpera\</tspan>
+<tspan x="10" y="3690">tion.js</tspan>
+<tspan x="10" y="3706">158.  2017-04-20 17:06:18 +0000    16580 bytes  src/queryBuilder/operations/eager/RelationJoinBu\</tspan>
+<tspan x="10" y="3722">ilder.js</tspan>
+<tspan x="10" y="3738">159.  2017-04-20 17:06:18 +0000     4582 bytes  src/queryBuilder/operations/eager/WhereInEagerOp\</tspan>
+<tspan x="10" y="3754">eration.js</tspan>
+<tspan x="10" y="3770">160.  2017-04-20 17:06:18 +0000      688 bytes  src/queryBuilder/operations/jsonApi/WhereJsonFie\</tspan>
+<tspan x="10" y="3786">ldPostgresOperation.js</tspan>
+<tspan x="10" y="3802">161.  2017-04-20 17:06:18 +0000      706 bytes  src/queryBuilder/operations/jsonApi/WhereJsonHas\</tspan>
+<tspan x="10" y="3818">PostgresOperation.js</tspan>
+<tspan x="10" y="3834">162.  2017-04-20 17:06:18 +0000      851 bytes  src/queryBuilder/operations/jsonApi/WhereJsonNot\</tspan>
+<tspan x="10" y="3850">ObjectPostgresOperation.js</tspan>
+<tspan x="10" y="3866">163.  2017-04-20 17:06:18 +0000      810 bytes  src/queryBuilder/operations/jsonApi/WhereJsonPos\</tspan>
+<tspan x="10" y="3882">tgresOperation.js</tspan>
+<tspan x="10" y="3898">164.  2017-04-20 17:06:18 +0000     5433 bytes  src/queryBuilder/operations/jsonApi/postgresJson\</tspan>
+<tspan x="10" y="3914">Api.js</tspan>
+<tspan x="10" y="3930">165.  2017-04-20 17:06:18 +0000     1825 bytes  src/queryBuilder/operations/whereInComposite/Whe\</tspan>
+<tspan x="10" y="3946">reInCompositeOperation.js</tspan>
+<tspan x="10" y="3962">166.  2017-04-20 17:06:18 +0000     1838 bytes  src/queryBuilder/operations/whereInComposite/Whe\</tspan>
+<tspan x="10" y="3978">reInCompositeSqliteOperation.js</tspan>
+<tspan x="10" y="3994">167.  2017-04-20 17:06:18 +0000    20212 bytes  src/queryBuilder/parsers/jsonFieldExpressionPars\</tspan>
+<tspan x="10" y="4010">er.js</tspan>
+<tspan x="10" y="4026">168.  2017-04-20 17:06:18 +0000     3395 bytes  src/queryBuilder/parsers/jsonFieldExpressionPars\</tspan>
+<tspan x="10" y="4042">er.pegjs</tspan>
+<tspan x="10" y="4058">169.  2017-04-20 17:06:18 +0000    20929 bytes  src/queryBuilder/parsers/relationExpressionParse\</tspan>
+<tspan x="10" y="4074">r.js</tspan>
+<tspan x="10" y="4090">170.  2017-04-20 17:06:18 +0000     1429 bytes  src/queryBuilder/parsers/relationExpressionParse\</tspan>
+<tspan x="10" y="4106">r.pegjs</tspan>
+<tspan x="10" y="4122">171.  2017-04-20 17:06:18 +0000    15164 bytes  src/relations/Relation.js</tspan>
+<tspan x="10" y="4138">172.  2017-04-20 17:06:18 +0000      440 bytes  src/relations/RelationDeleteOperation.js</tspan>
+<tspan x="10" y="4154">173.  2017-04-20 17:06:18 +0000     3275 bytes  src/relations/RelationFindOperation.js</tspan>
+<tspan x="10" y="4170">174.  2017-04-20 17:06:18 +0000      440 bytes  src/relations/RelationUpdateOperation.js</tspan>
+<tspan x="10" y="4186">175.  2017-04-20 17:06:18 +0000     1366 bytes  src/relations/belongsToOne/BelongsToOneInsertOpe\</tspan>
+<tspan x="10" y="4202">ration.js</tspan>
+<tspan x="10" y="4218">176.  2017-04-20 17:06:18 +0000     1247 bytes  src/relations/belongsToOne/BelongsToOneRelateOpe\</tspan>
+<tspan x="10" y="4234">ration.js</tspan>
+<tspan x="10" y="4250">177.  2017-04-20 17:06:18 +0000      775 bytes  src/relations/belongsToOne/BelongsToOneRelation.\</tspan>
+<tspan x="10" y="4266">js</tspan>
+<tspan x="10" y="4282">178.  2017-04-20 17:06:18 +0000      452 bytes  src/relations/belongsToOne/BelongsToOneUnrelateO\</tspan>
+<tspan x="10" y="4298">peration.js</tspan>
+<tspan x="10" y="4314">179.  2017-04-20 17:06:18 +0000     1239 bytes  src/relations/hasMany/HasManyInsertOperation.js</tspan>
+<tspan x="10" y="4330">180.  2017-04-20 17:06:18 +0000     1206 bytes  src/relations/hasMany/HasManyRelateOperation.js</tspan>
+<tspan x="10" y="4346">181.  2017-04-20 17:06:18 +0000      689 bytes  src/relations/hasMany/HasManyRelation.js</tspan>
+<tspan x="10" y="4362">182.  2017-04-20 17:06:18 +0000      843 bytes  src/relations/hasMany/HasManyUnrelateOperation.j\</tspan>
+<tspan x="10" y="4378">s</tspan>
+<tspan x="10" y="4394">183.  2017-04-20 17:06:18 +0000      161 bytes  src/relations/hasOne/HasOneRelation.js</tspan>
+<tspan x="10" y="4410">184.  2017-04-20 17:06:18 +0000      180 bytes  src/relations/hasOneThrough/HasOneThroughRelatio\</tspan>
+<tspan x="10" y="4426">n.js</tspan>
+<tspan x="10" y="4442">185.  2017-04-20 17:06:18 +0000      421 bytes  src/relations/manyToMany/ManyToManyDeleteOperati\</tspan>
+<tspan x="10" y="4458">on.js</tspan>
+<tspan x="10" y="4474">186.  2017-04-20 17:06:18 +0000      433 bytes  src/relations/manyToMany/ManyToManyDeleteSqliteO\</tspan>
+<tspan x="10" y="4490">peration.js</tspan>
+<tspan x="10" y="4506">187.  2017-04-20 17:06:18 +0000     3156 bytes  src/relations/manyToMany/ManyToManyFindOperation\</tspan>
+<tspan x="10" y="4522">.js</tspan>
+<tspan x="10" y="4538">188.  2017-04-20 17:06:18 +0000     1270 bytes  src/relations/manyToMany/ManyToManyInsertOperati\</tspan>
+<tspan x="10" y="4554">on.js</tspan>
+<tspan x="10" y="4570">189.  2017-04-20 17:06:18 +0000      879 bytes  src/relations/manyToMany/ManyToManyRelateOperati\</tspan>
+<tspan x="10" y="4586">on.js</tspan>
+<tspan x="10" y="4602">190.  2017-04-20 17:06:18 +0000    11811 bytes  src/relations/manyToMany/ManyToManyRelation.js</tspan>
+<tspan x="10" y="4618">191.  2017-04-20 17:06:18 +0000      955 bytes  src/relations/manyToMany/ManyToManyUnrelateOpera\</tspan>
+<tspan x="10" y="4634">tion.js</tspan>
+<tspan x="10" y="4650">192.  2017-04-20 17:06:18 +0000     1601 bytes  src/relations/manyToMany/ManyToManyUnrelateSqlit\</tspan>
+<tspan x="10" y="4666">eOperation.js</tspan>
+<tspan x="10" y="4682">193.  2017-04-20 17:06:18 +0000      421 bytes  src/relations/manyToMany/ManyToManyUpdateOperati\</tspan>
+<tspan x="10" y="4698">on.js</tspan>
+<tspan x="10" y="4714">194.  2017-04-20 17:06:18 +0000      433 bytes  src/relations/manyToMany/ManyToManyUpdateSqliteO\</tspan>
+<tspan x="10" y="4730">peration.js</tspan>
+<tspan x="10" y="4746">195.  2017-04-20 17:06:18 +0000     2812 bytes  src/transaction.js</tspan>
+<tspan x="10" y="4762">196.  2017-04-20 17:06:18 +0000     1343 bytes  src/utils/classUtils.js</tspan>
+<tspan x="10" y="4778">197.  2017-04-20 17:06:18 +0000      649 bytes  src/utils/decorators/deprecated.js</tspan>
+<tspan x="10" y="4794">198.  2017-04-20 17:06:18 +0000     1561 bytes  src/utils/decorators/hiddenData.js</tspan>
+<tspan x="10" y="4810">199.  2017-04-20 17:06:18 +0000     1202 bytes  src/utils/decorators/memoize.js</tspan>
+<tspan x="10" y="4826">200.  2017-04-20 17:06:18 +0000     1236 bytes  src/utils/hiddenData.js</tspan>
+<tspan x="10" y="4842">201.  2017-04-20 17:06:18 +0000      947 bytes  src/utils/knexUtils.js</tspan>
+<tspan x="10" y="4858">202.  2017-04-20 17:06:18 +0000     3587 bytes  src/utils/normalizeIds.js</tspan>
+<tspan x="10" y="4874">203.  2017-04-20 17:06:18 +0000      912 bytes  src/utils/promiseUtils.js</tspan>
+<tspan x="10" y="4890">204.  2017-04-20 17:06:18 +0000    30143 bytes  typings/objection/index.d.ts</tspan>
+</text>
+</svg>
